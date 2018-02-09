@@ -1,4 +1,4 @@
-## The functions cache an inverse of a matrix "solve(data, ...)" and returns the result
+## The functions cache an inverse of a matrix "solve(data, ...)" and returns the result above
 
 makecachematrix<- function(x = matrix()) {
     m <- NULL
